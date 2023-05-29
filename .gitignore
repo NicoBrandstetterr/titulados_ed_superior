@@ -11,3 +11,6 @@ data/20220804_Titulados_ed_Superior_2019_WEB.csv
 data/20220804_Titulados_ed_Superior_2020_WEB.csv
 data/20220804_Titulados_ed_Superior_2021_WEB.csv
 data/data.rar
+data/*.rar
+data/*
+.ipynb*
